@@ -185,15 +185,27 @@ FROM `my-books-project-88198.upload_books_dataset.cleaned_books_final`;
      - Rows: User_Rating
      - Visualization Type: Scatter Plot
      - Optional: Differentiate by Genre and adjust size by Reviews.
+
+    ![Price vs  User Rating of Bestselling Books by Genre](https://github.com/user-attachments/assets/576dc5a5-d0e6-4dc9-a986-c8a6624cb3b5)
+
+   - 
    - **Publication Trends Line Chart:**
      - Columns: Year
      - Rows: COUNT(Name)
      - Visualization Type: Line Chart
+
+    ![Publication Trends of Bestselling Books Over the Years](https://github.com/user-attachments/assets/443e3db0-4875-4f77-a84a-8037cf3e07c6)
+
+   - 
    - **Top Authors by Number of Bestsellers:**
      - Columns: Author
      - Rows: COUNT(Name)
      - Visualization Type: Bar Chart
      - Filter: Top 10 by count
+  
+    ![Top Authors by Number of Bestsellers](https://github.com/user-attachments/assets/d34aeefe-198f-4c29-833f-d876352804ac)
+
+     - 
 
 #### Step 6: Design the Dashboard
 1. **Create a New Dashboard:**
@@ -207,6 +219,10 @@ FROM `my-books-project-88198.upload_books_dataset.cleaned_books_final`;
 - **Filters:** Genre and Year filters at the top.
 - **Top Row:** Genre Distribution Bar Chart (left) and Top Authors by Number of Bestsellers (right).
 - **Bottom Row:** Price vs. Rating Scatter Plot (left) and Publication Trends Line Chart (right).
+
+![_Analysis of Amazon Top 50 Best Selling Books_](https://github.com/user-attachments/assets/c39fee00-fa78-4836-bb76-c9f78cc2c8c7)
+
+https://public.tableau.com/views/AnalysisofAmazonTop50BestSellingBooks/AnalysisofAmazonTop50BestSellingBooks?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Act on Insights
 Based on the visualizations and analysis, consider the following actions:
