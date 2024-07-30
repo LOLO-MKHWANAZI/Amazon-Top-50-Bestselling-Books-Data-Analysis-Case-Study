@@ -175,6 +175,9 @@ FROM `my-books-project-88198.upload_books_dataset.cleaned_books_final`;
      - Columns: Genre
      - Rows: COUNT(Name)
      - Visualization Type: Bar Chart
+     - 
+    ![Distribution of Bestselling Books by Genre](https://github.com/user-attachments/assets/80a87a52-8b4d-43b9-b686-b1eee9937205)
+   - 
    - **Price vs. Rating Scatter Plot:**
      - Columns: Price
      - Rows: User_Rating
