@@ -1,5 +1,7 @@
 # Amazon-Top-50-Bestselling-Books-Data-Analysis-Case-Study!
 
+![Capture](https://github.com/user-attachments/assets/5226b82e-8487-4626-91d3-b1ab61409817)
+
 # Data Analysis Process for Amazon's Top 50 Best Selling Books Dataset
 
 ## Introduction
